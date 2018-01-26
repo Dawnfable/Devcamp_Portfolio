@@ -61,6 +61,7 @@ ActiveRecord::Schema.define(version: 20180126212607) do
     t.string "name"
     t.bigint "portfolio_id"
     t.datetime "created_at", null: false
+    
     t.datetime "updated_at", null: false
     t.index ["portfolio_id"], name: "index_technologies_on_portfolio_id"
   end
