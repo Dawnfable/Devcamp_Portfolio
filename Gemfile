@@ -54,4 +54,4 @@ gem 'devise', '~> 4.4', '>= 4.4.1'
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
-gem 'MRR_View_Tool', git: 'https://github.com/Dawnfable/MRR_View_Tool'
+gem 'MRR_View_Tool', '~> 0.1.0'
