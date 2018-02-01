@@ -55,3 +55,4 @@ gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
 gem 'MRR_View_Tool', '~> 0.1.0'
+gem 'petergate', '~> 1.8', '>= 1.8.1'
