@@ -4,6 +4,8 @@
       )
 end
 
+   puts "3 topics"
+
 10.times do |blog|
    Blog.create!(
       title: "my blog post #{blog}",
